@@ -1,6 +1,6 @@
 # VoxWatermark
 
-VoxWatermark is a benchmark-style pipeline for audio watermark robustness under no-box, black-box, and white-box perturbations.
+VoxWatermark is a benchmark for audio watermark detection under no-box, black-box, and white-box perturbations.
 
 This repository provides:
 - Watermarked dataset generation scripts (`datasets/`)
