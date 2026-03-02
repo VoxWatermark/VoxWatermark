@@ -116,7 +116,7 @@ python split_speech.py
 Output:
 - `Splitting_Dataset/dataset_manifest.csv`
 
-### 2.4 Data hierarchy (integrated from `Splitting_Dataset/README.md`)
+### 2.4 Data hierarchy
 
 ```text
 datasets/
